@@ -2,7 +2,7 @@
 
 ### Backend developer | Python | Django | REST API
 
-## About me
+## 💫 About me
 
 - Python developer with an engineering background
 
