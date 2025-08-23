@@ -6,9 +6,9 @@
 
 - Python developer with an engineering background
 
-- Focus on REST API, Django REST Framework, PostgreSQL
+- Focus on **REST API**, **Django REST Framework**, **PostgreSQL**
 
-- Working with Docker, CI/CD pipelines
+- Working with **Docker**, **CI/CD pipelines**
 
 - Love building solutions that save time, reduce errors and make life easier
 
