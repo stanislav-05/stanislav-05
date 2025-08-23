@@ -26,4 +26,4 @@
 ![Pytest](https://img.shields.io/badge/Pytest-%C4A000.svg?logo=pytest&logoColor=white)
 
 ## Contact with me
-- Telegram: @fairhavennn
+- Telegram: [@fairhavennn](https://t.me/fairhavennn)
