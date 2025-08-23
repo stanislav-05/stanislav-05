@@ -13,3 +13,15 @@
 - Love building solutions that save time, reduce errors and make life easier
 
 - Open to collaboration, learning and building cool things with great teams
+
+## Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%3080F6.svg?logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%3080F6.svg?logo=rest-api&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%336791.svg?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%2361DAFB.svg?logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%003B57.svg?logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%181717.svg?logo=github&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%009639.svg?logo=nginx&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-%C4A000.svg?logo=pytest&logoColor=white)
