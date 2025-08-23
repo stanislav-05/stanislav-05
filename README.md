@@ -23,5 +23,5 @@
 ![Docker](https://img.shields.io/badge/Docker-%2361DAFB.svg?logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%003B57.svg?logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%181717.svg?logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%009639.svg?logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=NGINX&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-%C4A000.svg?logo=pytest&logoColor=white)
