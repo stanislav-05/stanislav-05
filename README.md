@@ -1,29 +1,47 @@
 ## Hi there, I'm Stanislav Markov 👋
 
-### Backend developer | Python | Django | REST API
+### Backend Developer | Python | Django | FastAPI | REST API
 
 ## 💫 About me
 
-- Python developer with an engineering background
+- Backend developer with an engineering background
+- Building reliable **REST APIs** with **Django REST Framework** and **FastAPI**
+- Experience with **PostgreSQL**, **SQLAlchemy**, **Pydantic**, **Alembic**
+- Working with **Docker**, **CI/CD**, **Celery**, **Redis**, **RabbitMQ**
+- Building real-time features with **Django Channels** and **WebSocket**
+- Focus on clean architecture, performance and solutions that reduce errors and save time
+- Open to collaboration, learning and building solid products with great teams
 
-- Focus on **REST API**, **Django REST Framework**, **PostgreSQL**
+## 🛠 Languages and Tools
 
-- Working with **Docker**, **CI/CD pipelines**
+**Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- Love building solutions that save time, reduce errors and make life easier
+**Backend Frameworks**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-- Open to collaboration, learning and building cool things with great teams
+**Data & Validation**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-8B0000?style=flat)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
-## Languages and Tools
+**Infrastructure & Messaging**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%3080F6.svg?logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%3080F6.svg?logo=rest-api&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%336791.svg?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%2361DAFB.svg?logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%181717.svg?logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=NGINX&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-%C4A000.svg?logo=pytest&logoColor=white)
+**Testing & Real-time**  
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=flat&logo=django&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
 
-## Contact with me
+## 📫 Contact
+
 - Telegram: [@fairhavennn](https://t.me/fairhavennn)
